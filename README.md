@@ -1,4 +1,25 @@
 # Appointment Booking System
+# Database Setup
+
+To set up the database for the project, follow these steps:
+
+1. **Extract the `Take_Home_Challenge_Resources.zip` file** to a local directory.
+
+2. **Navigate to the database folder** in your terminal or command prompt.
+
+3. **Run the following commands** to build and run the Docker container for the database. Ensure you have Docker installed on your local environment:
+
+    ### Build the Docker Image:
+    ```bash
+    docker build -t enpal-coding-challenge-db .
+    ```
+
+    ### Run the Docker Container:
+    ```bash
+    docker run --name enpal-coding-challenge-db -p 5432:5432 -d enpal-coding-challenge-db
+    ```
+
+This will start a Docker container with the database running on port `5432`.
 
 ## 1. Download the Project
 
