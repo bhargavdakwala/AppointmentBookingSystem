@@ -14,7 +14,7 @@ First, download the project from the GitHub repository.
     - Extract the ZIP file to a directory on your local machine.
 
 Alternatively, if you have Git installed, you can clone the repository using the following command:
-```bash
+
 git clone https://github.com/bhargavdakwala/AppointmentBookingSystem.git
 # Project Setup and API Testing
 
