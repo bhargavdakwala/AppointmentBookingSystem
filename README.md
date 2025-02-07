@@ -15,7 +15,7 @@ First, download the project from the GitHub repository.
 
 Alternatively, if you have Git installed, you can clone the repository using the following command:
 
-git clone https://github.com/bhargavdakwala/AppointmentBookingSystem.git
+git clone https://github.com/bhargavdakwala/AppointmentBookingSystem.git **all source code is in master branch not main branch
 # Project Setup and API Testing
 
 ## 2. Open the Project in Visual Studio
